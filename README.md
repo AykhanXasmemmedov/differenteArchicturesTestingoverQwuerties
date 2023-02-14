@@ -1,0 +1,2 @@
+# differenteArchicturesTestingoverQwuerties
+differenteArchicturesTestingoverQwuerties
